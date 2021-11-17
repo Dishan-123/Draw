@@ -1,0 +1,16 @@
+body
+{background-image: url("download\ \(2\).png");
+background-size: cover;
+background-position:center;
+font-size: 25px;
+color: white;}
+
+canvas
+{border: 10px ridge;
+background-color: white;}
+
+button
+{background-color: green;
+border-radius: 20px;
+border: 5px solid black;
+}
